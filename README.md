@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🔭 I'm currently working on my Portfolio.
+👯 I'm currently looking to collaborate with anyone or group of people on any front-end project
