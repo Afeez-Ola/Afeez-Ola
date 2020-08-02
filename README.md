@@ -1,20 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bolaji</h1>
+<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
 
-<!--
-**Afeez-Ola/Afeez-Ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afeez-ola" alt="afeez-ola" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Personal Portfolio**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Javascript (Vanilla JS)**
 
+- 👯 I’m looking to collaborate on **any frontend project**
 
-🔭 I'm currently working on my Portfolio.
-👯 I'm currently looking to collaborate with anyone or group of people on any front-end project
+- 💬 Ask me about **HTML, CSS**
+
+- 📫 How to reach me **afeezbolajiola@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=afeez-ola&show_icons=true" alt="afeez-ola" /> </p>
+
+<p align="center">
+<a href="https://dev.to/afeez-ola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="afeez-ola" height="20" width="20" /></a>
+<a href="https://twitter.com/mobolaji_ola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mobolaji_ola" height="20" width="20" /></a>
+<a href="https://fb.com/afeez ola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="afeez ola" height="20" width="20" /></a>
+<a href="https://dribbble.com/afeez bolaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="afeez bolaji" height="20" width="20" /></a>
+</p>
