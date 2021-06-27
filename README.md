@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afeez-ola" alt="afeez-ola" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Javascript (Vanilla JS)**
+- 🌱 I’m currently learning **Javascript (node JS)**
 
 - 👯 I’m looking to collaborate on **any frontend project**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS**,NODEJS**,DATABASE**
 
 - 📫 How to reach me **afeezbolajiola@gmail.com**
 
