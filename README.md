@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bolaji</h1>
-<h3 align="center">A passionate backend/cloud developer from Lagos, Nigeria</h3>
+<h3 align="center">Having Fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afeez-ola" alt="afeez-ola" /> </p>
 
 - 🔭 I’m currently working on **Personal Projects**
-
-- 🌱 I’m currently learning **Javascript (node JS)**
-
-- 👯 I’m looking to collaborate on **any frontend project**
-
-- 💬 Ask me about **HTML, CSS**,NODEJS**,DATABASE**
 
 - 📫 How to reach me **afeezbolajiola@gmail.com**
 
